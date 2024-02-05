@@ -1,0 +1,50 @@
+{
+  "build": "py310hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\kiwisolver-1.4.4-py310hd77b12b_0",
+  "files": [
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/LICENSE",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/METADATA",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/RECORD",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/WHEEL",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/kiwisolver-1.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/kiwisolver/__init__.py",
+    "Lib/site-packages/kiwisolver/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/kiwisolver/_cext.cp310-win_amd64.pyd",
+    "Lib/site-packages/kiwisolver/_cext.pyi",
+    "Lib/site-packages/kiwisolver/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "kiwisolver-1.4.4-py310hd77b12b_0.conda",
+  "legacy_bz2_md5": "ffd45a996d8abf95243ca820e62e696a",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\kiwisolver-1.4.4-py310hd77b12b_0",
+    "type": 1
+  },
+  "md5": "dd12185725a80698b8732474f54a6de7",
+  "name": "kiwisolver",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\kiwisolver-1.4.4-py310hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6627de24ea362f2e8b489b659010fe929edecb772098f2ef13568b58da7c68bb",
+  "size": 61210,
+  "subdir": "win-64",
+  "timestamp": 1672388276172,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/kiwisolver-1.4.4-py310hd77b12b_0.conda",
+  "version": "1.4.4"
+}

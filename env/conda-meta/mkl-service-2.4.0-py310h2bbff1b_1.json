@@ -1,0 +1,46 @@
+{
+  "build": "py310h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "mkl >=2023.1.0,<2024.0a0",
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\mkl-service-2.4.0-py310h2bbff1b_1",
+  "files": [
+    "Lib/site-packages/mkl/__init__.py",
+    "Lib/site-packages/mkl/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/mkl/_mklinit.cp310-win_amd64.pyd",
+    "Lib/site-packages/mkl/_py_mkl_service.cp310-win_amd64.pyd",
+    "Lib/site-packages/mkl_service-2.4.0-py3.10.egg-info/PKG-INFO",
+    "Lib/site-packages/mkl_service-2.4.0-py3.10.egg-info/SOURCES.txt",
+    "Lib/site-packages/mkl_service-2.4.0-py3.10.egg-info/dependency_links.txt",
+    "Lib/site-packages/mkl_service-2.4.0-py3.10.egg-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "mkl-service-2.4.0-py310h2bbff1b_1.conda",
+  "legacy_bz2_md5": "a6d45a65a7468b522cb88a8f54a97b40",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\mkl-service-2.4.0-py310h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "4a86b44055fc7cb91449e93d4e4626f3",
+  "name": "mkl-service",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\mkl-service-2.4.0-py310h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8f8b76eb8e0814e82b4ca3a48649e9803253d1bf50f440ef2ba03ef98c0af119",
+  "size": 44897,
+  "subdir": "win-64",
+  "timestamp": 1682974931077,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mkl-service-2.4.0-py310h2bbff1b_1.conda",
+  "version": "2.4.0"
+}

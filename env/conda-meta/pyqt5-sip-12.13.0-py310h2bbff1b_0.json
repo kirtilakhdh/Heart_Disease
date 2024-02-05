@@ -1,0 +1,48 @@
+{
+  "build": "py310h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\pyqt5-sip-12.13.0-py310h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/PyQt5/sip.cp310-win_amd64.pyd",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/INSTALLER",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/LICENSE",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/LICENSE-GPL2",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/LICENSE-GPL3",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/METADATA",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/RECORD",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/REQUESTED",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/WHEEL",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/direct_url.json",
+    "Lib/site-packages/PyQt5_sip-12.13.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "pyqt5-sip-12.13.0-py310h2bbff1b_0.conda",
+  "legacy_bz2_md5": "c3ad695289cbc086702eaf6f165120c4",
+  "license": "GPL-3.0-only",
+  "license_family": "GPL",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\pyqt5-sip-12.13.0-py310h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "e77e883d20851d2ffe2601046c48483e",
+  "name": "pyqt5-sip",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\pyqt5-sip-12.13.0-py310h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "461e2f42f0092f629b88059aa414fca7a5958c227830dbd3df856500100dced2",
+  "size": 76842,
+  "subdir": "win-64",
+  "timestamp": 1698769511000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyqt5-sip-12.13.0-py310h2bbff1b_0.conda",
+  "version": "12.13.0"
+}

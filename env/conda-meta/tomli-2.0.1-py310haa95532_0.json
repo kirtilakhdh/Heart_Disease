@@ -1,0 +1,51 @@
+{
+  "build": "py310haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\DELL\\anaconda3\\pkgs\\tomli-2.0.1-py310haa95532_0",
+  "files": [
+    "Lib/site-packages/tomli-2.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/tomli-2.0.1.dist-info/LICENSE",
+    "Lib/site-packages/tomli-2.0.1.dist-info/METADATA",
+    "Lib/site-packages/tomli-2.0.1.dist-info/RECORD",
+    "Lib/site-packages/tomli-2.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/tomli-2.0.1.dist-info/WHEEL",
+    "Lib/site-packages/tomli-2.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/tomli/__init__.py",
+    "Lib/site-packages/tomli/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/tomli/__pycache__/_parser.cpython-310.pyc",
+    "Lib/site-packages/tomli/__pycache__/_re.cpython-310.pyc",
+    "Lib/site-packages/tomli/__pycache__/_types.cpython-310.pyc",
+    "Lib/site-packages/tomli/_parser.py",
+    "Lib/site-packages/tomli/_re.py",
+    "Lib/site-packages/tomli/_types.py",
+    "Lib/site-packages/tomli/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "tomli-2.0.1-py310haa95532_0.conda",
+  "legacy_bz2_md5": "1df8cd89f5453214ab5751f786b606c2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\DELL\\anaconda3\\pkgs\\tomli-2.0.1-py310haa95532_0",
+    "type": 1
+  },
+  "md5": "82ddf1934ccee7d87976ccae3007bc9d",
+  "name": "tomli",
+  "package_tarball_full_path": "C:\\Users\\DELL\\anaconda3\\pkgs\\tomli-2.0.1-py310haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5b76ceb18d85780af360fc460dec855307f2e73172a04b3e9246ca1884c13c33",
+  "size": 25596,
+  "subdir": "win-64",
+  "timestamp": 1657175602888,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tomli-2.0.1-py310haa95532_0.conda",
+  "version": "2.0.1"
+}
